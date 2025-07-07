@@ -1,0 +1,7 @@
+channel: edge
+
+addons:
+  ser2net:
+    repository: jhollowe-addons/addon-ser2net
+    target: ser2net
+    image: ghcr.io/jhollowe-addons/ser2net-{arch}
