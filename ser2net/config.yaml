@@ -1,5 +1,5 @@
 name: ser2net server
-version: 0.0.2
+version: 0.0.3
 slug: ser2net
 description: 'Expose serial ports over the network, including RFC2217 support for
   remote port settings change (e.g. baud rate or RTS)
@@ -30,4 +30,4 @@ schema:
   max_connections: int
   enable_admin_interface: bool
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
-image: ghcr.io/jhollowe-addons/ser2net-{arch}
+image: ghcr.io/jhollowe-addons/ser2net/{arch}

@@ -2,4 +2,4 @@
 
 * No changes
 
-**Full Changelog**: https://github.com/jhollowe-addons/addon-ser2net/compare/v0.0.1...v0.0.2
+**Full Changelog**: https://github.com/jhollowe-addons/addon-ser2net/compare/v0.0.2...v0.0.3
