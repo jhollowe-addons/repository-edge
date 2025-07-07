@@ -120,10 +120,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/tree/881925c
-[addon-doc-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/blob/881925c/README.md
+[addon-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/tree/e1cb09d
+[addon-doc-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/blob/e1cb09d/README.md
 [ser2net-issue]: https://github.com/jhollowe-addons/addon-ser2net/issues
-[ser2net-version-shield]: https://img.shields.io/badge/version-881925c-blue.svg
+[ser2net-version-shield]: https://img.shields.io/badge/version-e1cb09d-blue.svg
 [ser2net-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ser2net-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ser2net-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
