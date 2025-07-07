@@ -1,5 +1,5 @@
 name: ser2net server
-version: e1cb09d
+version: 0.0.2
 slug: ser2net
 description: 'Expose serial ports over the network, including RFC2217 support for
   remote port settings change (e.g. baud rate or RTS)

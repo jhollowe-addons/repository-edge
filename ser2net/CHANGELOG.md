@@ -1,4 +1,5 @@
-# Changelog since v0.0.1
-- Prettified Code! 
-- Try supporting all arches 
-- Update devcontainer 
+## What’s changed
+
+* No changes
+
+**Full Changelog**: https://github.com/jhollowe-addons/addon-ser2net/compare/v0.0.1...v0.0.2
