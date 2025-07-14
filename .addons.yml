@@ -6,3 +6,7 @@ addons:
     repository: jhollowe-addons/addon-ser2net
     target: ser2net
     image: ghcr.io/jhollowe-addons/ser2net/{arch}
+  mqtt-io:
+    repository: jhollowe-addons/addon-mqtt-io
+    target: mqtt-io
+    image: ghcr.io/jhollowe-addons/mqtt-io/{arch}
