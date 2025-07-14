@@ -37,6 +37,19 @@ https://github.com/jhollowe-addons/repository-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [MQTT IO][addon-mqtt-io]
+
+![Latest Version][mqtt-io-version-shield]
+![Supports armhf Architecture][mqtt-io-armhf-shield]
+![Supports armv7 Architecture][mqtt-io-armv7-shield]
+![Supports aarch64 Architecture][mqtt-io-aarch64-shield]
+![Supports amd64 Architecture][mqtt-io-amd64-shield]
+![Supports i386 Architecture][mqtt-io-i386-shield]
+
+Expose GPIO modules and digital sensors via MQTT for remote control and monitoring.
+
+[:books: MQTT IO add-on documentation][addon-doc-mqtt-io]
+
 ### &#10003; [ser2net server][addon-ser2net]
 
 ![Latest Version][ser2net-version-shield]
@@ -65,6 +78,7 @@ You can open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: MQTT IO][mqtt-io-issue]
 - [Open an issue for the add-on: ser2net server][ser2net-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -83,6 +97,15 @@ Thank you for being involved! :heart_eyes:
 
 We are currently not accepting third party add-ons to this repository.
 
+[addon-mqtt-io]: https://github.com/jhollowe-addons/addon-mqtt-io/tree/26bc863
+[addon-doc-mqtt-io]: https://github.com/jhollowe-addons/addon-mqtt-io/blob/26bc863/README.md
+[mqtt-io-issue]: https://github.com/jhollowe-addons/addon-mqtt-io/issues
+[mqtt-io-version-shield]: https://img.shields.io/badge/version-26bc863-blue.svg
+[mqtt-io-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[mqtt-io-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[mqtt-io-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/tree/v0.0.3
 [addon-doc-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/blob/v0.0.3/README.md
 [ser2net-issue]: https://github.com/jhollowe-addons/addon-ser2net/issues
